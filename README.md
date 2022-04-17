@@ -1,5 +1,6 @@
 # The Magic Planner
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
+<img width="1440" alt="pro-event-planning" src="https://user-images.githubusercontent.com/90933707/163703850-0a2bef77-8fe9-43a4-9273-1ecb0bc83f20.png">
 ## Table of Contents
 
 1.  [Description](#description)
